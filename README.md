@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 𝓓𝓪𝓰𝓶𝓪𝔀𝓲𝓽 𝓝𝓮𝓰𝓪𝓼𝓱 🌿
+# 𝒟𝒶𝑔𝓂𝒶𝓌𝒾𝓉 𝒩𝑒𝑔𝒶𝓈𝒽 🦋
 
 ### Software Engineer | Backend & Full-Stack Development
 
@@ -9,7 +9,6 @@ Building practical software, reliable backend systems, and meaningful digital ex
 
 <img src="https://img.shields.io/badge/Backend-14532D?style=flat-square" />
 <img src="https://img.shields.io/badge/Full--Stack-166534?style=flat-square" />
-<img src="https://img.shields.io/badge/Exploring%20AI-064E3B?style=flat-square" />
 
 </div>
 
@@ -169,6 +168,15 @@ TypeScript
 </a>
 
 <br/><br/>
+
+## 🐍 Contribution Garden
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/DagmawitN/DagmawitN/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 **Thanks for visiting my profile! 🌿**
 
