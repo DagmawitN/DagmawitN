@@ -169,14 +169,6 @@ TypeScript
 
 <br/><br/>
 
-## 🐍 Contribution Garden
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/DagmawitN/DagmawitN/output/github-contribution-grid-snake.svg)
-
-</div>
-
 
 **Thanks for visiting my profile! 🌿**
 
